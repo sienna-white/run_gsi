@@ -1,0 +1,3310 @@
+Loaded spack modules...
+rm: cannot remove 'pm25bufr': No such file or directory
+rm: cannot remove 'pm25bufr_pa': No such file or directory
+rm: cannot remove 'temp.nc': No such file or directory
+
+
+ Running GSI for 2018110806
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110806
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:16:38 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110807
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110807
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:17:04 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110808
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110808
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:17:30 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110809
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110809
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:17:54 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110810
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110810
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:18:19 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110811
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110811
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:18:45 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110812
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110812
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:19:10 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110813
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110813
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:19:34 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110814
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110814
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:19:59 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110815
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110815
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:20:23 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110816
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110816
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:20:48 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110817
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110817
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:21:12 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110818
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110818
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:21:37 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110819
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110819
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:22:02 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110820
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110820
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:22:27 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110821
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110821
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:22:51 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110822
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110822
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:23:16 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110823
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110823
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:23:41 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110900
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110900
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:24:06 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110901
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110901
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:24:30 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110902
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110902
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:24:56 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110903
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110903
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:25:22 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110904
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110904
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:25:47 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110905
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110905
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:26:13 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110906
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110906
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:26:38 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110907
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110907
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:27:03 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110908
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110908
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:27:29 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110909
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110909
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:27:55 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110910
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110910
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:28:21 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110911
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110911
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:28:48 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110912
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110912
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:29:14 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110913
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110913
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:29:40 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110914
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110914
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:30:07 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110915
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110915
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:30:33 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110916
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110916
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:31:00 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110917
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110917
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:31:26 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110918
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110918
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:31:52 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110919
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110919
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:32:18 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110920
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110920
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:32:44 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110921
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110921
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:33:20 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110922
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110922
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:33:46 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018110923
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018110923
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:34:13 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111000
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111000
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:34:39 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111001
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111001
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:35:05 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111002
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111002
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:35:30 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111003
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111003
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:35:57 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111004
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111004
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:36:21 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111005
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111005
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:36:46 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111006
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111006
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:37:11 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111007
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111007
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:37:37 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111008
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111008
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:38:02 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111009
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111009
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:38:28 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111010
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111010
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:38:54 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111011
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111011
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:39:21 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111012
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111012
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:39:46 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111013
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111013
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:40:13 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111014
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111014
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:40:40 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111015
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111015
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:41:06 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111016
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111016
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:41:30 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111017
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111017
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:41:54 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111018
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111018
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:42:19 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111019
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111019
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:42:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111020
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111020
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:43:06 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111021
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111021
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:43:29 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111022
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111022
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:43:52 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111023
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111023
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:44:14 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111100
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111100
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:44:37 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111101
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111101
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:45:04 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111102
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111102
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:45:28 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111103
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111103
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:45:50 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111104
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111104
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:46:13 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111105
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111105
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:46:37 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111106
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111106
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:47:03 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111107
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111107
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:47:25 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111108
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111108
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:47:47 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111109
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111109
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:48:10 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111110
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111110
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:48:33 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111111
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111111
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:48:55 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111112
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111112
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:49:21 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111113
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111113
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:49:45 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111114
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111114
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:50:07 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111115
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111115
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:50:30 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111116
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111116
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:50:54 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111117
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111117
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:51:16 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111118
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111118
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:51:40 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111119
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111119
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:52:03 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111120
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111120
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:52:27 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111121
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111121
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:52:51 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111122
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111122
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:53:18 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111123
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111123
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:53:47 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111200
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111200
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:54:14 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111201
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111201
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:54:39 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111202
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111202
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:55:02 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111203
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111203
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:55:37 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111204
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111204
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:56:02 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111205
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111205
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:56:29 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111206
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111206
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:56:58 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111207
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111207
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:57:24 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111208
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111208
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:57:49 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111209
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111209
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:58:15 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111210
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111210
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:58:41 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111211
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111211
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:59:11 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111212
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111212
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 15:59:38 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111213
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111213
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:00:03 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111214
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111214
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:00:31 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111215
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111215
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:00:55 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111216
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111216
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:01:20 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111217
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111217
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:01:50 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111218
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111218
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:02:17 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111219
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111219
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:02:43 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111220
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111220
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:03:09 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111221
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111221
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:03:35 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111222
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111222
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:04:01 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111223
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111223
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:04:27 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111300
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111300
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:04:53 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111301
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111301
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:05:20 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111302
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111302
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:05:46 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111303
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111303
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:06:13 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111304
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111304
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:06:39 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111305
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111305
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:07:07 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111306
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111306
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:07:33 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111307
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111307
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:08:00 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111308
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111308
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:08:29 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111309
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111309
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:08:57 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111310
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111310
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:09:24 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111311
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111311
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:09:51 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111312
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111312
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:10:17 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111313
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111313
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:10:44 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111314
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111314
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:11:16 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111315
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111315
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:11:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111316
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111316
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:12:10 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111317
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111317
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:12:39 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111318
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111318
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:13:08 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111319
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111319
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:13:39 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111320
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111320
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:14:06 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111321
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111321
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:14:33 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111322
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111322
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:15:01 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111323
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111323
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:15:27 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111400
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111400
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:15:54 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111401
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111401
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:16:21 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111402
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111402
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:16:48 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111403
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111403
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:17:15 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111404
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111404
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:17:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111405
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111405
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:18:10 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111406
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111406
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:18:36 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111407
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111407
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:19:02 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111408
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111408
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:19:30 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111409
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111409
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:20:02 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111410
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111410
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:20:30 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111411
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111411
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:21:00 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111412
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111412
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:21:27 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111413
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111413
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:21:54 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111414
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111414
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:22:22 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111415
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111415
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:22:51 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111416
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111416
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:23:18 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111417
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111417
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:23:47 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111418
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111418
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:24:15 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111419
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111419
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:24:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111420
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111420
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:25:08 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111421
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111421
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:25:39 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111422
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111422
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:26:06 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111423
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111423
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:26:33 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111500
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111500
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:27:01 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111501
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111501
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:27:29 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111502
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111502
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:27:57 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111503
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111503
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:28:25 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111504
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111504
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:28:53 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111505
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111505
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:29:21 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111506
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111506
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:29:49 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111507
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111507
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:30:16 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111508
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111508
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:30:44 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111509
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111509
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:31:14 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111510
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111510
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:31:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111511
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111511
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:32:10 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111512
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111512
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:32:39 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111513
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111513
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:33:05 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111514
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111514
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:33:32 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111515
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111515
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:33:59 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111516
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111516
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:34:26 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111517
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111517
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:34:53 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111518
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111518
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:35:20 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111519
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111519
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:35:52 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111520
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111520
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:36:19 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111521
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111521
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:36:45 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111522
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111522
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:37:12 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111523
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111523
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:37:40 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111600
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111600
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:38:13 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111601
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111601
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:38:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111602
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111602
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:39:10 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111603
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111603
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:39:38 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111604
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111604
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:40:06 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111605
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111605
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:40:33 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111606
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111606
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:41:01 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111607
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111607
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:41:31 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111608
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111608
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:42:00 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111609
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111609
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:42:26 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111610
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111610
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:42:54 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111611
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111611
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:43:21 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111612
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111612
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:43:48 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111613
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111613
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:44:15 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111614
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111614
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:44:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111615
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111615
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:45:12 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111616
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111616
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:45:39 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111617
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111617
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:46:06 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111618
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111618
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:46:32 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111619
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111619
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:47:02 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111620
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111620
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:47:34 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111621
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111621
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:48:01 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111622
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111622
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:48:28 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111623
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111623
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:48:56 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111700
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111700
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:49:24 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111701
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111701
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:49:50 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111702
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111702
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:50:17 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111703
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111703
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:50:46 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111704
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111704
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:51:11 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111705
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111705
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:51:37 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111706
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111706
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:52:04 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111707
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111707
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:52:31 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111708
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111708
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:52:56 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111709
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111709
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:53:23 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111710
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111710
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:53:48 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111711
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111711
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:54:14 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111712
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111712
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:54:41 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111713
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111713
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:55:07 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111714
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111714
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:55:34 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111715
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111715
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:56:01 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111716
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111716
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:56:27 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111717
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111717
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:56:54 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111718
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111718
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:57:21 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111719
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111719
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:57:50 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111720
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111720
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:58:16 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111721
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111721
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:58:43 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111722
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111722
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:59:12 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111723
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111723
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 16:59:39 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111800
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111800
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:00:09 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111801
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111801
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:00:40 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111802
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111802
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:01:06 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111803
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111803
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:01:35 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111804
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111804
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:02:07 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111805
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111805
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:02:35 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111806
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111806
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:03:03 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111807
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111807
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:03:30 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111808
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111808
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:03:58 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111809
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111809
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:04:24 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111810
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111810
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:04:54 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111811
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111811
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:05:20 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111812
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111812
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:05:46 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111813
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111813
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:06:13 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111814
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111814
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:06:39 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111815
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111815
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:07:04 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111816
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111816
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:07:30 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111817
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111817
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:07:56 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111818
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111818
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:08:23 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111819
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111819
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:08:50 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111820
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111820
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:09:23 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111821
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111821
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:09:50 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111822
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111822
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:10:17 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111823
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111823
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:10:45 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111900
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111900
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:11:12 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111901
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111901
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:11:39 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111902
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111902
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:12:06 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111903
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111903
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:12:32 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111904
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111904
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:13:00 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111905
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111905
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:13:26 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111906
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111906
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:13:54 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111907
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111907
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:14:21 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111908
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111908
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:14:48 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111909
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111909
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:15:15 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111910
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111910
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:15:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111911
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111911
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:16:08 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111912
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111912
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:16:47 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111913
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111913
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:17:14 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111914
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111914
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:17:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111915
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111915
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:18:10 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111916
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111916
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:18:38 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111917
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111917
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:19:13 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111918
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111918
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:19:45 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111919
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111919
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:20:12 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111920
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111920
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:20:40 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111921
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111921
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:21:10 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111922
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111922
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:21:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018111923
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018111923
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:22:10 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112000
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112000
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:22:37 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112001
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112001
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:23:05 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112002
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112002
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:23:31 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112003
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112003
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:23:58 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112004
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112004
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:24:25 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112005
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112005
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:24:52 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112006
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112006
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:25:23 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112007
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112007
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:25:50 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112008
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112008
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:26:19 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112009
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112009
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:26:47 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112010
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112010
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:27:16 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112011
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112011
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:27:44 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112012
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112012
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:28:12 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112013
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112013
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:28:40 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112014
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112014
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:29:08 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112015
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112015
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:29:37 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112016
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112016
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:30:07 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112017
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112017
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:30:36 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112018
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112018
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:31:04 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112019
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112019
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:31:32 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112020
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112020
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:32:01 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112021
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112021
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:32:35 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112022
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112022
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:33:06 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112023
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112023
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:33:36 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112100
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112100
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:34:08 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112101
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112101
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:34:38 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112102
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112102
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:35:08 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112103
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112103
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:35:36 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112104
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112104
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:36:11 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112105
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112105
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:36:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112106
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112106
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:37:11 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112107
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112107
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:37:40 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112108
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112108
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:38:11 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112109
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112109
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:38:41 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112110
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112110
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:39:11 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112111
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112111
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:39:42 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112112
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112112
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:40:13 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112113
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112113
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:40:46 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112114
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112114
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:41:17 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112115
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112115
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:41:46 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112116
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112116
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:42:16 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112117
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112117
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:42:48 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112118
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112118
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:43:18 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112119
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112119
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:43:48 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112120
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112120
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:44:19 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112121
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112121
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:44:50 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112122
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112122
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:45:25 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+
+
+ Running GSI for 2018112123
+Copying background field
+	 Running gsi, directing output to: stdout_GSI_2018112123
+	 GSI has run successfully!
+	 Initial PM2.5 field added back to output netcdf.
+Done!
+Thu Nov 21 17:45:57 PST 2024
+rm: cannot remove 'wrf_inout': No such file or directory
+rm: cannot remove 'pm25bufr': No such file or directory
+rm: cannot remove 'wrf_inout': No such file or directory
+rm: cannot remove 'temp.nc': No such file or directory
+rm: cannot remove 'pm25bufr_pa': No such file or directory
+/var/spool/slurmd/job22306733/slurm_script: line 192: unexpected EOF while looking for matching `"'
+/var/spool/slurmd/job22306733/slurm_script: line 198: syntax error: unexpected end of file
