@@ -7,6 +7,8 @@
 #SBATCH --cpus-per-task=1
 #SBATCH --time=00:05:00
 
+git remote add origin git@github.com:sienna-white/run_gsi.git
+
   # berror_chem=.true.,
   # oneobtest_chem =.true.,
   # maginnov_chem=10,
