@@ -1,5 +1,5 @@
 #!/bin/sh
-#SBATCH --job-name=run_101_OLDBUFR
+#SBATCH --job-name=run_101
 #SBATCH --partition=savio3
 #SBATCH --account=co_aiolos 
 #SBATCH --nodes=1
@@ -15,9 +15,17 @@
 #######################################################
 # Loop through each line in the file
 
-available_wrf_files=/global/scratch/users/siennaw/gsi_2024/run_becca/available_wrf_files.txt
+
 
 #################### USER INPUT #######################
+path2spack=/global/scratch/users/siennaw/gsi_2024/compiling/spack
+
+BKG_ROOT=/global/scratch/users/leoal/test_convert/convert/output
+
+# Where we hope to execute our run
+RUN_FOLDER=/global/scratch/users/siennaw/gsi_2024/runs/run_101
+
+
 # date="$1"
 DEBUG=0 # (0,1): Debug options 1 for True (print extra info), 0 for False (less output)
 CLEAN=1 # (0,1): 1 for clean folder/delete interim files, 0 for keep extra files
@@ -25,13 +33,14 @@ LINK_BINARY=1 #(0,1) 1=Link binary files (should only have to do once); 0=Don't 
 #######################################################
 
 WORKING_DIRECTORY=$(pwd)
+available_wrf_files=${WORKING_DIRECTORY}/available_wrf_files.txt
 
-path2spack=/global/scratch/users/siennaw/gsi_2024/compiling/spack
 
+
+# ****************** LOAD IN SPACK DIRECTORIES **************** 
 # This sources the environment variables spack needs from the local spack folder
 . ${path2spack}/share/spack/setup-env.sh
 
-# ****************** LOAD IN SPACK DIRECTORIES **************** 
 spack load bufr
 spack load ip
 spack load sp
@@ -53,15 +62,14 @@ spack load nco
 echo "Loaded spack modules..."
 
 # ************** USER INPUT ********************
-OBS_ROOT=/global/scratch/users/tinakc/AQS_bufr_data
+AQS_OBS_ROOT=/global/scratch/users/tinakc/AQS_bufr_data
 
 GSI_EXECUTABLE=/global/scratch/users/siennaw/gsi_2024/compiling/gsi4savio/GSIall/build/src/gsi/gsi.x
 
 # Location of WRF output file 
 BKG_ROOT=/global/scratch/users/leoal/test_convert/convert/output
-
-# Where we hope to execute our run
-RUN_FOLDER=/global/scratch/users/siennaw/gsi_2024/run_101_OLDBUFR
+# BKG_ROOT=/global/scratch/users/siennaw/gsi_2024/grib2nc/finished
+PA_OBS_ROOT=/global/scratch/users/rasugrue/convert2bufr/bufr_vNov2024/
 
 # Link binary files (should only need to do this once)
 if [[ "$LINK_BINARY" -eq 1 ]]; then 
@@ -92,17 +100,19 @@ fi
 
 while IFS= read -r line; do
     echo -e "\n\n Running GSI for ${line}"
+    cd $RUN_FOLDER   # Make sure we're in the run folder
 
-    # Call the function with the current line as an argument
-    date=$line
+   
+    date=$line       # Each line is a timestamp to process 
 
     # ************************************************
-    PREPBUFR=${OBS_ROOT}/HourlyPM_${date}.bufr
+    AQS_OBS_BUFR=${AQS_OBS_ROOT}/HourlyPM_${date}.bufr
+    PA_OBS_BUFR=${PA_OBS_ROOT}/HourlyPM_${date}.bufr
     BKG_FILE=${BKG_ROOT}/wrfinput_d01_${date}.nc
-    cd $RUN_FOLDER
     # ************************************************
 
-    # Check and copy background file
+    # ************************************************
+    # Check that it exists & and copy background WRF file
     if [ -f "$BKG_FILE" ]; then
         echo "Copying background field"
         cp ${BKG_FILE} wrf_inout 
@@ -112,18 +122,27 @@ while IFS= read -r line; do
     fi
     # ************************************************
 
-    # Check and link observation files
-    if [ -f "$PREPBUFR" ]; then
-        ln -s ${PREPBUFR} ./pm25bufr
-
-        # Link Becca's purple air data (Updated to have the PM2.5 corrected)
-        # ln -s global/scratch/users/rasugrue/convert2bufr/bufr_vNov2024/HourlyPM_${date}.bufr ./pm25bufr_pa
-        ln -s /global/scratch/users/tinakc/PA_bufr_data_5percentNov/HourlyPM_${date}.bufr ./pm25bufr_pa
+    # ************************************************
+    # Check that it exists & and symlink the PM2.5 BUFR file 
+    if [ -f "$AQS_OBS_BUFR" ]; then
+        ln -s ${AQS_OBS_BUFR} ./pm25bufr
+        # ln -s /global/scratch/users/tinakc/PA_bufr_data_5percentNov/HourlyPM_${date}.bufr ./pm25bufr_pa
         # /global/scratch/users/rasugrue/convert2bufr/validation_vNov2024 >>this is the 5% that was left out for validation 
     else
-        echo "Observation file ${PREPBUFR} not found!"
+        echo "Observation file ${AQS_OBS_BUFR} not found!"
         exit 1
     fi
+    # ************************************************
+
+
+    # Link Purple Air Data
+    if [ -f "$PA_OBS_BUFR" ]; then
+        # Link Becca's purple air data (Updated to have the PM2.5 corrected)
+        ln -s ${PA_OBS_BUFR} ./pm25bufr_pa 
+    else
+        echo "Observation file ${PA_OBS_BUFR} not found!"
+        exit 1
+    fi    
     # ************************************************
 
     # Save initial PM2.5 Field 
@@ -189,7 +208,7 @@ rm temp.nc
 rm pm25bufr_pa
 
 
-echo "Finished all 
+echo "Finished all"
 # mv wrf_inout_* ../output
 
 

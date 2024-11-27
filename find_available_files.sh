@@ -1,6 +1,7 @@
 #!/bin/sh
 
 wrf_file_folder=/global/scratch/users/leoal/test_convert/convert/output/
+# wrf_file_folder=/global/scratch/users/siennaw/gsi_2024/grib2nc/finished
 
 dates=$(basename -a ${wrf_file_folder}/*.nc | grep -E -o "[0-9]{10}")
 
