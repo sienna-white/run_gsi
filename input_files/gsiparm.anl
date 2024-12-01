@@ -20,7 +20,7 @@
    filled_grid=.false.,half_grid=.true.,netcdf=.true.,
  /
  &BKGERR
-   hzscl=.05,0.1,0.1,
+   hzscl=.2,0.1,0.1,
    hswgt=0.7,0.2,0.1,
    bw=0.,fstat=.true.,
  /

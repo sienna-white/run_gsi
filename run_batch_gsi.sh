@@ -1,10 +1,10 @@
 #!/bin/sh
-#SBATCH --job-name=run_101
+#SBATCH --job-name=run_110
 #SBATCH --partition=savio3
 #SBATCH --account=co_aiolos 
 #SBATCH --nodes=1
-#SBATCH --ntasks-per-node=32
-#SBATCH --cpus-per-task=1
+#SBATCH --ntasks-per-node=16
+#SBATCH --cpus-per-task=2
 #SBATCH --time=03:00:00
 
 #######################################################
@@ -23,7 +23,7 @@ path2spack=/global/scratch/users/siennaw/gsi_2024/compiling/spack
 BKG_ROOT=/global/scratch/users/leoal/test_convert/convert/output
 
 # Where we hope to execute our run
-RUN_FOLDER=/global/scratch/users/siennaw/gsi_2024/runs/run_101
+RUN_FOLDER=/global/scratch/users/siennaw/gsi_2024/runs/run_110
 
 
 # date="$1"
@@ -35,7 +35,11 @@ LINK_BINARY=1 #(0,1) 1=Link binary files (should only have to do once); 0=Don't 
 WORKING_DIRECTORY=$(pwd)
 available_wrf_files=${WORKING_DIRECTORY}/available_wrf_files.txt
 
-
+# Copy namelist into run folder 
+cd ${WORKING_DIRECTORY}/input_files/
+cp * ${RUN_FOLDER}
+cd ${RUN_FOLDER}
+echo "Copied files into the run folder" 
 
 # ****************** LOAD IN SPACK DIRECTORIES **************** 
 # This sources the environment variables spack needs from the local spack folder
@@ -85,10 +89,6 @@ rm pm25bufr
 rm pm25bufr_pa
 rm temp.nc
 
-# Copy namelist into run folder 
-cd ${WORKING_DIRECTORY}/input_files/
-cp * ${RUN_FOLDER}
-cd ${RUN_FOLDER}
 
 # Check if GSI executable exists
 if [ -f "$GSI_EXECUTABLE" ]; then

@@ -3,11 +3,10 @@
 #SBATCH --partition=savio3
 #SBATCH --account=co_aiolos 
 #SBATCH --nodes=1
-#SBATCH --ntasks-per-node=32
-#SBATCH --cpus-per-task=1
+#SBATCH --ntasks-per-node=16
+#SBATCH --cpus-per-task=2
 #SBATCH --time=00:05:00
 
-git remote add origin git@github.com:sienna-white/run_gsi.git
 
   # berror_chem=.true.,
   # oneobtest_chem =.true.,
@@ -72,9 +71,8 @@ GSI_EXECUTABLE=/global/scratch/users/siennaw/gsi_2024/compiling/gsi4savio/GSIall
 # Location of WRF output file 
 BKG_ROOT=/global/scratch/users/leoal/test_convert/convert/output
 
-
 # Where we hope to execute our run
-RUN_FOLDER=/global/scratch/users/siennaw/gsi_2024/run_204
+RUN_FOLDER=/global/scratch/users/siennaw/gsi_2024/runs/run_208
 
 # ************************************************
 BKG_FILE=${BKG_ROOT}/wrfinput_d01_${date}.nc
