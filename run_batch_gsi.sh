@@ -1,6 +1,6 @@
 #!/bin/sh
-#SBATCH --job-name=run_110
-#SBATCH --partition=savio3
+#SBATCH --job-name=run_109
+#SBATCH --partition=savio
 #SBATCH --account=co_aiolos 
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=16
@@ -23,7 +23,7 @@ path2spack=/global/scratch/users/siennaw/gsi_2024/compiling/spack
 BKG_ROOT=/global/scratch/users/leoal/test_convert/convert/output
 
 # Where we hope to execute our run
-RUN_FOLDER=/global/scratch/users/siennaw/gsi_2024/runs/run_110
+RUN_FOLDER=/global/scratch/users/siennaw/gsi_2024/runs/run_105
 
 
 # date="$1"
@@ -178,10 +178,9 @@ while IFS= read -r line; do
 
     # Move results to appropriate location
     output_file=wrf_inout_${date}
-    mv wrf_inout ${output_file}
 
-    rm -fr fort.*
-    rm -fr pe0*
+    # Extract just the smoke fields 
+    ncks -v PM2_5_DRY,PM2_5_DRY_INIT wrf_inout $output_file
 
     # Path to the Python script for creating plots
     # PLOT_SCRIPT="/global/scratch/users/siennaw/scripts/HRRRpy/create_plots.py"
@@ -190,9 +189,13 @@ while IFS= read -r line; do
     # mv *.png ../output 
     # mv *.nc ../output
     # mv wrf* ../output
+
     echo "Done!"
     echo $(date)
 
+    # Delete extra files
+    rm -fr fort.*
+    rm -fr pe0*
     rm pm25bufr 
     rm wrf_inout 
     rm temp.nc 
